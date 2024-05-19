@@ -1,0 +1,11 @@
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\bin\Debug\net8.0\DiyaClassLib.deps.json
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\bin\Debug\net8.0\DiyaClassLib.dll
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\bin\Debug\net8.0\DiyaClassLib.pdb
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\DiyaClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\DiyaClassLib.AssemblyInfoInputs.cache
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\DiyaClassLib.AssemblyInfo.cs
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\DiyaClassLib.csproj.CoreCompileInputs.cache
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\DiyaClassLib.dll
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\refint\DiyaClassLib.dll
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\DiyaClassLib.pdb
+C:\a_ZDTU\CPZ\Labs\Lab01\ConsoleApp1\ClassLibrary\obj\Debug\net8.0\ref\DiyaClassLib.dll
