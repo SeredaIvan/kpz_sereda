@@ -18,9 +18,9 @@ In the case of developing this project, each class is responsible for only one f
 
 In the case of developing this project, each class is responsible for only one function. Relevant code : [Document.cs](./ConsoleApp1/ClassLibrary/Document.cs), (./ConsoleApp1/ClassLibrary/Password.cs) etc.
 
-> *Liskov Substitution Principle (LSP):* Subtypes should be substitutable for their base types, meaning objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.For example [Program.cs - line 9-20](./ConsoleApp1/ConsoleApp/Program.cs#9-20)
+> *Liskov Substitution Principle (LSP):* Subtypes should be substitutable for their base types, meaning objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.For example [Program.cs - line 9-20](./ConsoleApp1/ConsoleApp1/Program.cs#9-20)
 
->*Interface Segregation Principle (ISP):* Clients should not be forced to depend on interfaces they don't use. Instead, interfaces should be segregated, meaning they should contain only the methods that are relevant to their implementing classes. Relevant code : [Passport.cs - line 6](./ConsoleAdd1/ClassLibrary/Passport.cs#6)
+>*Interface Segregation Principle (ISP):* Clients should not be forced to depend on interfaces they don't use. Instead, interfaces should be segregated, meaning they should contain only the methods that are relevant to their implementing classes. Relevant code : [Passport.cs - line 6](./ConsoleApp1/ClassLibrary/Passport.cs#6)
 
 >*Dependency Inversion Principle (DIP):* High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
 
@@ -40,6 +40,7 @@ Program to interfaces, not implementations advises coding with interfaces rather
 
 **Fail fast**
 
-Fail fast is a principle urging quick detection and reporting of errors at their source, rather than letting them spread. It promotes rapid identification and resolution of issues, enhancing software reliability and stability.For example [DriverLicense.cs - line 47-57](./ConsoleApp1/ClassLibrary/DriverLicense.cs#19-26),[Passport.cs - line 47-57](./ConsoleApp1/ClassLibrary/Passport.cs#47-57)
+Fail fast is a principle urging quick detection and reporting of errors at their source, rather than letting them spread. It promotes rapid identification and resolution of issues, enhancing software reliability and stability.For example [DriverLicense.cs - line 47-57](./ConsoleApp1/ClassLibrary/DriverLicense.cs#19-26), 
+ [Passport.cs - line 47-57](./ConsoleApp1/ClassLibrary/Passport.cs#47-57)
 
 *In conclusion*, software development principles like DRY, KISS, SOLID, YAGNI, Composition over Inheritance, Program to Interfaces, and Fail Fast, advocate for efficiency, simplicity, maintainability, flexibility, and reliability, ultimately contributing to the creation of robust and scalable software systems.
