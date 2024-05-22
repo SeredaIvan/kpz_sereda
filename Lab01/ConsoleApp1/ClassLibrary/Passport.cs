@@ -3,7 +3,7 @@ using System.Xml.Linq;
 
 namespace DiyaClassLib
 {
-    public class Passport : Document, IDocWithTimeUntil // Program to Interfaces
+    public class Passport : Document, IDocWithTimeUntil 
     {
         private string description;
         private string number;

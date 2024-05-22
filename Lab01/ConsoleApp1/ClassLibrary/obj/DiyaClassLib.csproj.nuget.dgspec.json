@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\a_ZDTU\\CPZ\\Labs\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj": {}
+    "C:\\a_ZDTU\\CPZ\\kpz_sereda\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj": {}
   },
   "projects": {
-    "C:\\a_ZDTU\\CPZ\\Labs\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj": {
+    "C:\\a_ZDTU\\CPZ\\kpz_sereda\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\a_ZDTU\\CPZ\\Labs\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj",
+        "projectUniqueName": "C:\\a_ZDTU\\CPZ\\kpz_sereda\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj",
         "projectName": "DiyaClassLib",
-        "projectPath": "C:\\a_ZDTU\\CPZ\\Labs\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj",
+        "projectPath": "C:\\a_ZDTU\\CPZ\\kpz_sereda\\Lab01\\ConsoleApp1\\ClassLibrary\\DiyaClassLib.csproj",
         "packagesPath": "C:\\Users\\vanos\\.nuget\\packages\\",
-        "outputPath": "C:\\a_ZDTU\\CPZ\\Labs\\Lab01\\ConsoleApp1\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\a_ZDTU\\CPZ\\kpz_sereda\\Lab01\\ConsoleApp1\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
