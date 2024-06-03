@@ -1,6 +1,6 @@
 <?php
 
-namespace ClassLib;
+namespace ClassLib\FactoryMethod;
 
 class User
 {
@@ -10,22 +10,6 @@ class User
     {
         $this->selectedSubscription = $selectedSubscription;
         $this->sub = $selectedSubscription->__toString();
-    }
-
-    /**
-     * @return mixed
-     */
-    public function getSelectedSubscription():ISubscription
-    {
-        return $this->selectedSubscription;
-    }
-
-    /**
-     * @param mixed $selectedSubscription
-     */
-    public function setSelectedSubscription(ISubscription $selectedSubscription): void
-    {
-        $this->selectedSubscription = $selectedSubscription;
     }
     public function WhithSubscriptionSelected($user)
     {

@@ -2,8 +2,13 @@
 
 function autoload($className)
 {
-    $file = str_replace('\\', '/', $className) . '.php';
+    $file = __DIR__ . '\\' .  $className . '.php';
+
     if (file_exists($file)) {
         include_once($file);
+    } else {
+        echo "File not found: $file";
     }
 }
+
+spl_autoload_register('autoload');

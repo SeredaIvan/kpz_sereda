@@ -1,5 +1,5 @@
 <?php
-namespace ClassLib;
+namespace ClassLib\FactoryMethod;
 enum SubscriptionsEnum {
 case DomesticSubscription;
 case EducationalSubscription;

@@ -1,6 +1,6 @@
 <?php
 
-namespace ClassLib;
+namespace ClassLib\FactoryMethod;
 
 interface ISubscription
 {

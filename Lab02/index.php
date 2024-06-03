@@ -1,40 +1,34 @@
 <?php
-function autoload($className)
-{
-$file = str_replace('\\', '/', $className) . '.php';
-if (file_exists($file)) {
-include_once($file);
-} else {
-echo "File not found: $file";
-}
-}
 
+require 'autoload.php';
 
-spl_autoload_register('autoload');
+use ClassLib\FactoryMethod\ManagerCall;
+use ClassLib\FactoryMethod\MobileApp;
+use ClassLib\FactoryMethod\SubscriptionsEnum;
+use ClassLib\FactoryMethod\User;
+use ClassLib\FactoryMethod\WebSite;
 
+$web = new WebSite();
+$manager = new ManagerCall();
+$mobile = new MobileApp();
 
-use ClassLib\SubscriptionCreator;
-use ClassLib\ISubscription;
-use ClassLib\ManagerCall;
-use ClassLib\WebSite;
-use ClassLib\MobileApp;
-use ClassLib\EducationalSubscription;
-use ClassLib\PremiumSubscription;
-use ClassLib\DomesticSubscription;
-use ClassLib\SubscriptionsEnum;
-use ClassLib\User;
+$user1 = new User($web->AddSubscription(SubscriptionsEnum::DomesticSubscription));
+$user2 = new User($manager->AddSubscription(SubscriptionsEnum::EducationalSubscription));
+$user3 = new User($mobile->AddSubscription(SubscriptionsEnum::PremiumSubscription));
 
-$user1 = new User(SubscriptionCreator::createSubscription(SubscriptionsEnum::DomesticSubscription));
-$user2 = new User(SubscriptionCreator::createSubscription(SubscriptionsEnum::EducationalSubscription));
-$user3 = new User(SubscriptionCreator::createSubscription(SubscriptionsEnum::PremiumSubscription));
+echo "<br>";
 
 $user1->UserPay(200);
 $user2->UserPay(300);
 $user3->UserPay(500);
 
+echo "<br>";
+
 $user1->WhithSubscriptionSelected("user1");
-echo"<br>";
+echo "<br>";
 $user2->WhithSubscriptionSelected("user2");
-echo"<br>";
+echo "<br>";
 $user3->WhithSubscriptionSelected("user3");
-echo"<br>";
+echo "<br>";
+
+echo "<a href='AbstractFactory.php'>AbstractFactory</a>";

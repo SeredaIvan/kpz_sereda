@@ -1,12 +1,11 @@
 <?php
 
-namespace ClassLib;
+namespace ClassLib\FactoryMethod;
 
 class SubscriptionCreator
 {
     private function __construct()
     {
-
     }
 
     public static function CreateSubscription(SubscriptionsEnum $subscriptionsEnum): ?ISubscription
