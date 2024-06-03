@@ -33,4 +33,6 @@ echo "<br>";
 
 echo "<a href='AbstractFactory.php'>AbstractFactory</a>";
 echo "<a href='Singleton.php'>Singleton</a>";
+echo "<a href='Prototype.php'>Prototype</a>";
+echo "<a href='Buider.php'>Buider</a>";
 
