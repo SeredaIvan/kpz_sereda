@@ -32,3 +32,5 @@ $user3->WhithSubscriptionSelected("user3");
 echo "<br>";
 
 echo "<a href='AbstractFactory.php'>AbstractFactory</a>";
+echo "<a href='Singleton.php'>Singleton</a>";
+
