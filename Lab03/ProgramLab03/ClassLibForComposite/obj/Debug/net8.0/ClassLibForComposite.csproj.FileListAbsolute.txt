@@ -1,0 +1,12 @@
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\bin\Debug\net8.0\ClassLibForComposite.deps.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\bin\Debug\net8.0\ClassLibForComposite.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\bin\Debug\net8.0\ClassLibForComposite.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.AssemblyInfoInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.AssemblyInfo.cs
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.csproj.CoreCompileInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.sourcelink.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\refint\ClassLibForComposite.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ClassLibForComposite.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForComposite\obj\Debug\net8.0\ref\ClassLibForComposite.dll

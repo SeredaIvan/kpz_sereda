@@ -1,0 +1,12 @@
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\bin\Debug\net8.0\ClassLibForProxi.deps.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\bin\Debug\net8.0\ClassLibForProxi.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\bin\Debug\net8.0\ClassLibForProxi.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.AssemblyInfoInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.AssemblyInfo.cs
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.csproj.CoreCompileInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.sourcelink.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\refint\ClassLibForProxi.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ClassLibForProxi.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForProxi\obj\Debug\net8.0\ref\ClassLibForProxi.dll

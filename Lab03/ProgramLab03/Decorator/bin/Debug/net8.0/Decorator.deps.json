@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Decorator/1.0.0": {
+        "dependencies": {
+          "ClassLibForDecorator": "1.0.0"
+        },
+        "runtime": {
+          "Decorator.dll": {}
+        }
+      },
+      "ClassLibForDecorator/1.0.0": {
+        "runtime": {
+          "ClassLibForDecorator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibForDecorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

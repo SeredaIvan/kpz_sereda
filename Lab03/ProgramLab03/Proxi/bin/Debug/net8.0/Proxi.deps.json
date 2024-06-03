@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proxi/1.0.0": {
+        "dependencies": {
+          "ClassLibForProxi": "1.0.0"
+        },
+        "runtime": {
+          "Proxi.dll": {}
+        }
+      },
+      "ClassLibForProxi/1.0.0": {
+        "runtime": {
+          "ClassLibForProxi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proxi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibForProxi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

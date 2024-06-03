@@ -1,0 +1,12 @@
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\bin\Debug\net8.0\ClassLib.deps.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\bin\Debug\net8.0\ClassLib.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\bin\Debug\net8.0\ClassLib.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfoInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfo.cs
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.sourcelink.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\refint\ClassLib.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ClassLib.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLib\obj\Debug\net8.0\ref\ClassLib.dll

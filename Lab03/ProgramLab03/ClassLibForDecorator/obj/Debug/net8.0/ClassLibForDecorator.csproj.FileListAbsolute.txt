@@ -1,0 +1,12 @@
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\bin\Debug\net8.0\ClassLibForDecorator.deps.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\bin\Debug\net8.0\ClassLibForDecorator.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\bin\Debug\net8.0\ClassLibForDecorator.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.AssemblyInfoInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.AssemblyInfo.cs
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.csproj.CoreCompileInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.sourcelink.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\refint\ClassLibForDecorator.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ClassLibForDecorator.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForDecorator\obj\Debug\net8.0\ref\ClassLibForDecorator.dll

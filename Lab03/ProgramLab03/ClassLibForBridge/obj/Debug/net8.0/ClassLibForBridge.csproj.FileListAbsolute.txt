@@ -1,0 +1,12 @@
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\bin\Debug\net8.0\ClassLibForBridge.deps.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\bin\Debug\net8.0\ClassLibForBridge.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\bin\Debug\net8.0\ClassLibForBridge.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.AssemblyInfoInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.AssemblyInfo.cs
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.csproj.CoreCompileInputs.cache
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.sourcelink.json
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\refint\ClassLibForBridge.dll
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ClassLibForBridge.pdb
+C:\a_ZDTU\CPZ\kpz_sereda\Lab03\ProgramLab03\ClassLibForBridge\obj\Debug\net8.0\ref\ClassLibForBridge.dll
