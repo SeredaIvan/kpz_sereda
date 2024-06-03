@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassLibForComposite
 {
@@ -50,6 +48,8 @@ namespace ClassLibForComposite
             if (DisplayType == DisplayType.Block)
                 builder.Append(Environment.NewLine);
 
+            Console.Write(builder.ToString());
+
             foreach (var childNode in ChildNodes)
             {
                 childNode.Display();
@@ -58,15 +58,16 @@ namespace ClassLibForComposite
             if (ClosingType == ClosingType.DoubleTag)
             {
                 if (DisplayType == DisplayType.Block)
-                    builder.Append(Environment.NewLine);
-                builder.Append($"</{TagName}>");
+                    Console.Write(Environment.NewLine);
+                Console.Write($"</{TagName}>");
             }
             else
             {
-                builder.Append(" />");
+                Console.Write(" />");
             }
 
-            Console.WriteLine(builder.ToString());
+            if (DisplayType == DisplayType.Block)
+                Console.Write(Environment.NewLine);
         }
 
         public override int GetTreeSize()

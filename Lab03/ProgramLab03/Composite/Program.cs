@@ -60,7 +60,7 @@ class Program
             string line = lines[i].Trim();
             if (string.IsNullOrWhiteSpace(line))
             {
-                continue; 
+                continue;
             }
             else if (line.Length < 20)
             {

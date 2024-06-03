@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibForComposite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd26810205b519620d2d8ee8abd5387808e1c80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2a86c80274adbd0d1bb3deb3e744dbd3364724")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibForComposite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibForComposite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

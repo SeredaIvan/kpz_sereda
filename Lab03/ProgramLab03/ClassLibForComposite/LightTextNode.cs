@@ -11,7 +11,7 @@
 
         public override void Display()
         {
-            Console.WriteLine(text);
+            Console.Write(text);
         }
     }
 }
